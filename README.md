@@ -1,3 +1,3 @@
 # ConkerTweaks Github Port
-**I AM USING THIS FOR TESTING IF ITS MALICIOUS, DO NOT RUN THIS CODE UNLESS YOU KNOW IF ITS SAFE!**
-Made by conker
+Github Port of ConkerTweaks, a game tweaking software.
+All credits go to https://conkertweaks.com
